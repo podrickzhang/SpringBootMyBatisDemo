@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: ywtTest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.rosam
+Build-Jdk: 1.7.0_80
+Built-By: 80252069
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/ywtTest/
+
